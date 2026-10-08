@@ -1,0 +1,11 @@
+# Non-course practical items
+.codex-docx-java-practical/
+ST-Scholarship-System/
+*.docx
+*.zip
+25CE101_Moksh-Raval.pdf
+Practice/
+*.sh
+*.ps1
+*.ser
+*.dat
